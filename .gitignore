@@ -15,3 +15,5 @@
 *.joblib
 
 /work/optuna_artifacts/
+
+input/petfinder-adoption-prediction.zip
